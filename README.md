@@ -1,4 +1,4 @@
-# League_Of_Legend_Challenges_Project
+# League_Of_Legend_Challenges_Naming_Project
 
 ---
 
